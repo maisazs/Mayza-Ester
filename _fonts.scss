@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Preahvihear&display=swap');
+
+
+@font-face {
+    font-family: 'albra';
+    src: url('albra-display-trial-cufonfonts-webfont/AlbraBookTRIAL-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('Helvetica\ Neue\ Regular.otf') format('otf');
+}
+
+$inter: "Inter Tight", sans-serif;
+$preahvihear: "Preahvihear", sans-serif;
+$jakarta: "Plus Jakarta Sans", sans-serif;
+$neue: 'Helvetica Neue', sans-serif;
+$albra: 'albra', sans-serif;
