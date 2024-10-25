@@ -1,3 +1,5 @@
+//carrossel
+
 let items = document.querySelectorAll('.slider .item');
 let next = document.getElementById('next');
 let prev = document.getElementById('prev');
@@ -38,4 +40,7 @@ prev.onclick = function() {
     loadShow();
 }
 
+
+//-----------------
+//biblioteca AOS
 AOS.init();
