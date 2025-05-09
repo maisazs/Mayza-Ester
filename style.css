@@ -434,6 +434,7 @@ span {
 
 .skill-img img {
   width: 80px;
+  border-radius: 100%;
   transition: width 1s;
 }
 
